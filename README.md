@@ -94,7 +94,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Shivam Pokhriyal](https://github.com/fs0sp) | II | CSE |[@fs0sp](https://hacktoberfest.digitalocean.com/stats/fs0sp) |
 | Ashik Paul | II | CSE | |
 | Aditya Vyas | II | IT | |
-| Pavan Swarnkar(https://github.com/pavsoni99)| II | IT | (https://hacktoberfest.digitalocean.com/stats/pavsoni99)
+| Pavan Swarnkar| II | IT |
 | Divyansh Sharma | III | CSE | |
 | Rishabh Anand | IV | ECE | |
 | Shiv Soni | IV | CSE | |
